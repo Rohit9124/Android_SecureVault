@@ -52,37 +52,6 @@ Material UI	Modern Android UI components
 🏗 Project Architecture
 The project follows a modular Android architecture:
 
-SecureVault
-│
-├── activities
-│   ├── LoginActivity
-│   ├── MainViewActivity
-│
-├── fragments
-│   ├── AddPasswordFragment
-│   ├── UpdatePasswordFragment
-│   ├── SettingsFragment
-│   ├── SecureNotesFragment
-│   ├── SecureAttachmentsFragment
-│
-├── database
-│   ├── DatabaseHelper
-│
-├── encryption
-│   ├── EncryptionHelper
-│
-├── autofill
-│   ├── SecureVaultAutofillService
-│   ├── AutofillFieldsParser
-│
-├── utilities
-│   ├── AppLockManager
-│   ├── DialogHelper
-│   ├── SettingsPrefs
-│
-└── worker
-    ├── ClipboardClearWorker
-    
 📦 Installation
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/SecureVault.git
