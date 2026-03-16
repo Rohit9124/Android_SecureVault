@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <color name="black">#FF000000</color>
+    <color name="background">#0F1511</color>
+    <color name="background_primary">#0F1511</color>
+    <color name="background_secondary">#212824</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#525252</color>
+    <color name="accent">#FEED55</color>
+    -->
+<!--For dark mode-->
+    <!--For dark mode-->
+    <color name="background_login">#141218</color>
+    <color name="background_primary">#141218</color>
+    <color name="background_secondary">#D4D2DB</color>
+    <color name="text_primary">#CAC4D0</color>
+    <color name="text_secondary">#494949</color>
+    <color name="accent">#D0BCFF</color>
+    <color name="logo_color_light">#FFFFFF</color>
+
+<!--    For toggle button-->
+    <color name="colorOn">#D0BCFF</color>
+    <color name="colorOff">#dee0d9</color>
+
+<!--    For navigation bar-->
+    <color name="navigationbar_dark_mode">#141218</color>
+    <color name="navigationbar_light_mode">#FFFFFF</color>
+    <color name="edittext_background_color">#121212</color>
+    <color name="edittext_border_color">#888888</color>
+    <color name="edittext_text_color">#FFFFFF</color>
+    <color name="edittext_hint_color">#BBBBBB</color>
+    <color name="text_glow_light">#8692F7</color>
+    <color name="text_glow_dark">#584B71</color>
+    <color name="text_stroke">#FFFFFF</color>
+    <color name="button_ripple">#40FFFFFF</color>
+
+    <!-- Search Dialog -->
+    <color name="search_dialog_background">#F2EEEE</color>
+    <color name="search_dialog_border">#C8A2FF</color>
+    <color name="primary_dark">#584B71</color>
+    <color name="onPrimary_dark">#FFFFFF</color> <!-- should be white -->
+
+    <color name="secondary_dark">#03DAC6</color>
+    <color name="onSecondary_dark">#FFFFFF</color> <!-- should be white -->
+
+    <color name="background_dark">#121212</color>
+    <color name="onBackground_dark">#FFFFFF</color>
+
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="onSurface_dark">#FFFFFF</color>
+
+    <color name="error_dark">#CF6679</color>
+    <color name="onError_dark">#FFFFFF</color> <!-- should be white -->
+
+
+
+
+</resources>

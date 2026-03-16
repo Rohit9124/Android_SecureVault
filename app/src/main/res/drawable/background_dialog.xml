@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Adaptive background: pure white in light mode, pure black in dark mode -->
+    <solid android:color="@color/search_dialog_background" />
+
+    <!-- Lavender border: 2dp width, visible but subtle -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/search_dialog_border" />
+
+    <!-- Rounded corners: modern and premium feel -->
+    <corners android:radius="18dp" />
+
+</shape>
